@@ -1,0 +1,16 @@
+var OX_b274f046 = '';
+OX_b274f046 += "<"+"style scoped>\n";
+OX_b274f046 += ".eab a { text-decoration:none; }\n";
+OX_b274f046 += "<"+"/style>\n";
+OX_b274f046 += "<"+"div class=\"eab\" style=\"display:inline-block; position:relative; overflow:hidden; width:300px; height:110px;\"><"+"a href=\"http://www.elasticads.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=2__zoneid=3__source=%7Bobfs%3A%7D__cb=ff1710596c__oadest=http%3A%2F%2Fwww.shieldui.com%2F\" target=\"_blank\"><"+"div style=\"width:298px; height:108px; border:1px solid #e3e3e3; overflow:hidden; font-family:\'Verdana\'; font-size:12px; line-height:1.2em; background-color:#ffffff; text-align:left;\">\n";
+OX_b274f046 += "<"+"div style=\"display:block; width:130px; height:100px; overflow:hidden; float:left; margin:5px;\">\n";
+OX_b274f046 += "<"+"img src=\"//www.elasticads.com/shared/images/ads/shieldui-260x200-1.png\" width=\"130\" height=\"100\" border=\"0\" />\n";
+OX_b274f046 += "<"+"/div>\n";
+OX_b274f046 += "<"+"div style=\"display:block; width:150px; height:100px; overflow:hidden; float:left; margin-left:5px; margin-top:10px; color:#0FB012;\">\n";
+OX_b274f046 += "Fast and Feature-rich HTML5 UI components for JavaScript, ASP.NET, MVC and JAVA\n";
+OX_b274f046 += "<"+"/div>\n";
+OX_b274f046 += "<"+"/div><"+"/a><"+"div id=\'beacon_ff1710596c\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://www.elasticads.com/adserver/www/delivery/lg.php?bannerid=2&amp;campaignid=1&amp;zoneid=3&amp;source={obfs:}&amp;loc=1&amp;referer=http%3A%2F%2Fwww.prepbootstrap.com%2Fbootstrap-template%2Fbootstrap-ribbon&amp;cb=ff1710596c\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div><"+"div style=\"position:absolute; height:15px; bottom:0; right:0; text-align:right; padding-right:2px; color:#b3b3b3; font-family:Arial; font-size:12px; line-height:1.2em;\">\n";
+OX_b274f046 += "Ads&nbsp;by&nbsp;<"+"a style=\"color:#b3b3b3; text-decoration:underline;\" href=\"http://www.elasticads.com\" target=\"_blank\">ElasticAds<"+"/a>\n";
+OX_b274f046 += "<"+"/div>\n";
+OX_b274f046 += "<"+"/div>\n";
+document.write(OX_b274f046);
